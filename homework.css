@@ -1,0 +1,60 @@
+@charset "UTF-8";
+/* CSS Document*/
+
+html body{
+background-color : rgba(191, 201, 202, 2.00);
+}
+
+
+
+  .bg-body-tertiary{
+    background-color : rgb(5,7,50)!important;
+
+  }
+
+  .nav-link{
+    color: rgb(181, 171, 171, 2.00) !important;
+  }
+
+  .nav-link:hover{
+    color: azure !important;
+  }
+
+  .navbar-brand{
+    color: azure !important;
+  }
+
+  .active{
+    color: azure !important;
+  }
+
+  .navbar-toggler{
+    filter: invert(100%);
+  }
+
+  h1{
+    font-size : 1.902em;
+    font-weight: 700;
+  }
+
+  h2{
+    font-size : 1.702em;
+    font-weight: 700;
+  }
+
+  h3{
+    font-size : 1.502em;
+    font-weight: 700;
+  }
+
+  h4{
+    font-size : 1.302em;
+    font-weight: 700;
+  }
+
+  p{
+    font-weight: 400;
+  }
+  .footer-ah{
+    text-align: center
+  }
